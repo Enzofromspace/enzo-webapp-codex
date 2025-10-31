@@ -16,6 +16,7 @@ import digitalEnlightenment from '../data/lore/digital-enlightenment.md?raw';
 import whySupport from '../data/why-support.md?raw';
 
 // Configure marked to handle line breaks properly
+// test
 marked.setOptions({
   breaks: true,
   gfm: true
